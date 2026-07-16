@@ -1,0 +1,6 @@
+{
+  "name": "Kijani Link",
+  "description": "An interactive 3D landing page and subscriber/admin portal for Kijani Link, an eco-friendly high-speed fiber ISP featuring a stylized glowing network grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
